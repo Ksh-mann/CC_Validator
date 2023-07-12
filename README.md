@@ -1,2 +1,3 @@
-# CC_Validator
- Credit Card validator application using Luhn's Algorithm.
+This is a simple credit card validator program built in C++ designed to check whether a given credit card number is valid or not. The program takes input of a credit card number and performs a series of checks to determine its validity.
+
+The program uses the Luhn algorithm to validate credit card numbers. This algorithm uses a series of calculations to determine whether a credit card number is valid or not. If the number is valid, the program will output a message indicating that the credit card number is valid. If the number is invalid, the program will output a message indicating that the credit card number is invalid.
